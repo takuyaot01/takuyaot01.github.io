@@ -1,7 +1,11 @@
-作成したドキュメントや関わったイベントの資料など。
+👋 Hi, I’m @takuyaot01
+- 🕊️ [Twitter](https://twitter.com/takuyaot01)
+- 📚 [Zenn](https://zenn.dev/takuyaot)
+- 🎁 [SlideShare](https://www.slideshare.net/takuyaot/presentations)
+- 📫 [LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
 
-
-## Windows クライアント系
+<br><br>
+# Windows クライアント系
 
 ### Windows 10
 [IT エンジニアのための 流し読み Windows 10 - この半年くらいの Windows 10 事情 - 2019 春](https://www.slideshare.net/takuyaot/it-windows-10-windows-10-2019)<br>
@@ -28,14 +32,15 @@
 [IT エンジニアのための 流し読み Microsoft 365 - 入門！Microsoft Defender ATP (Defender for Endpoint)](https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender)<br>
 [IT エンジニアのための 流し読み Microsoft 365 - 入門！Microsoft Defender for Endpoint クロスプラットフォーム編](https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender-for-endpoint-242769214)<br>
 
-### ハードコア デバッギング
+
+<br><br>
+# ハードコア デバッギング
 [ハードコア デバッギング　～ Windows のアプリケーション運用トラブルシューティング実践](https://www.slideshare.net/takuyaot/windows-140148072)<br>
 [ハードコア デバッギング : サポート直伝！運用中 Windows アプリケーション バグバスター！！](https://www.slideshare.net/takuyaot/windows-140148401)<br>
 [ハードコア デバッギング : サポート直伝！ Windows カーネルモード デバッグ活用編！！](https://www.slideshare.net/takuyaot/windows-148410112)<br>
 
-
 <br><br>
-## Windows 365 / AVD (WVD)
+# Windows 365 / AVD (WVD)
 [IT エンジニアのための 流し読み Windows 10 - Windows Virtual Desktop](https://www.slideshare.net/takuyaot/it-windows-10-windows-virtual-desktop-146709743)<br>
 [IT エンジニアのための 流し読み Windows - Windows 365 ってどんな感じ？ - せっかちなあなたへ編 -](https://www.slideshare.net/takuyaot/it-windows-windows-365-249784610)<br>
 [Microsoft デスクトップ仮想化ソリューション比較](https://www.slideshare.net/takuyaot/microsoft-249969155)<br>
@@ -43,19 +48,16 @@
 [いまはじ！ Windows 365 - Enterprise 編](https://zenn.dev/books/60c3ced87ba86f/edit)<br>
 
 <br><br>
-## クライアント管理インフラ
+# クライアント管理インフラ
 [IT エンジニアのための 流し読み Windows 10 - 入門！Windows Server Update Services (WSUS)](https://www.slideshare.net/takuyaot/it-windows-10-windows-server-update-services-wsus)<br>
 [IT エンジニアのための 流し読み Windows 10 - 入門！System Center Configration Manager](https://www.slideshare.net/takuyaot/it-windows-10-system-center-configration-manager)<br>
 [IT エンジニアのための 流し読み Windows 10 - Microsoft の更新プログラム管理インフラ比較 ～ WU / WSUS / SCCM の違い ～](https://www.slideshare.net/takuyaot/it-windows-10-microsoft-wu-wsus-sccm)<br>
 [[SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能!](https://www.slideshare.net/takuyaot/sccm-system-center-configuration-manager-140148680)<br>
 [Windows × ネットワーク! 更新プログラムの展開に使える ネットワークの最適化機能をマスターしよう](https://www.slideshare.net/takuyaot/windows-140148546)<br>
 
-
-
-
 <br><br>
 # Configuration Manager 評価ガイド
-[Configuration Manager 評価ガイド待避所](https://github.com/takuyaot01/cmdocs/blob/main/README.md). 
+[Configuration Manager 評価ガイド待避所](https://github.com/takuyaot01/cmdocs/blob/main/README.md)
 
 <br><br>
 ### Contact

@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/takuyaot01/takuyaot01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+## Windows 365
+
+[![Images](https://cdn.slidesharecdn.com/ss_thumbnails/microsoftdefenderatp-200716110009-thumbnail-2.jpg?cb=1594897648)](https://www.slideshare.net/takuyaot/it-windows-windows-365-249784610)
+[IT エンジニアのための 流し読み Windows - Windows 365 ってどんな感じ？ - せっかちなあなたへ編 -](https://www.slideshare.net/takuyaot/it-windows-windows-365-249784610)
+
 
 ### Markdown
 
@@ -28,9 +35,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Configuration Manager 評価ガイド
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takuyaot01/takuyaot01.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Configuration Manager の評価ガイドをお探しの方はこちら [Configuration Manager 評価ガイド待避所](https://github.com/takuyaot01/cmdocs/blob/main/README.md). 
 
 ### Support or Contact
 

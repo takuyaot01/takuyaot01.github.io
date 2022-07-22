@@ -2,19 +2,18 @@
 layout: default
 ---
 
-# Configuration Manager 評価ガイド待避所
+## Configuration Manager 評価ガイド待避所
 ここでは諸事情により公式サイトが消滅してしまった「Configuration Manager 評価ガイド」の一時待避所です。<br>
 こちらにファイルを保管しておきますが、公式サイトが復活したらご案内します。
 <br>
 <br>
 
-## Configuration Manager 評価ガイドとは？
+### Configuration Manager 評価ガイドとは？
 日本マイクロソフト企画・監修のもと[国井さん](https://azuread.net/)に協力いただき作成しているガイドになります。<br>
 非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
 <br>
 <br>
-## 2020 年 3 月更新分
-
+### 2020 年 3 月更新分
 公式サイトでのアップロードが出来なくなった頃であり未公開かもしれません。。。すみません<br>
 v1.0 は世に出回ったかもですが、一部古くなった部分を私の方で修正を加えたものになります。<br>
 ここから Microsoft Endpoinot Configuration Manager です。<br>
@@ -34,19 +33,18 @@ v1.0 は世に出回ったかもですが、一部古くなった部分を私の
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [MECM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |
 <br>
 
-## 2019 年 3 月更新分
-
+### 2019 年 3 月更新分
 共同管理編あたりも公開されていたとは思うが、blog 等からリンクされていない・・・<br>
 クラウド管理ゲートウェイ編  や 更新プログラム管理編は最新版をお使いください。コレクターズアイテムということで。<br>
 
-| | Title | Ver | File |
+| test | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
 | ★ | Configuration Manager (CB) 評価ガイド - SCCM - Intune 共同管理編 | v1.0 | [SCCM_EvalGuide_Co-Management_jp_v1.0.doc](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
 | |Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.0 | [SCCM_EvalGuide_CMG_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_CMG_jp_v1.0.docx) |
 | | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [SCCM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Update_jp_v1.0.docx) |
 <br>
 
-## 2018 年 3 月更新分
+### 2018 年 3 月更新分
 Fall Creators Update は実はアップデートされているが、すぐ変更があったため 1 回目は世に出回って無いかも・・・<br>
 
 | | Title | Ver | File |

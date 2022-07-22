@@ -1,8 +1,8 @@
-<br>
-
 ## 🖥️[Configuration Manager 評価ガイド待避所](./cmdocs.html)
 ## 🎁[SlideShare](https://www.slideshare.net/takuyaot/presentations)
 ## 📚[Zenn](https://zenn.dev/takuyaot)
+
+<br><br>
 
 * * *
 

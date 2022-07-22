@@ -86,4 +86,5 @@ YouTube : [[SCCM 友の会] System Center Configuration Manager この秋おさ�
 PDF : [[TS18] PR25  [SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能.pdf](https://github.com/takuyaot01/cmdocs/blob/main/%5BTS18%5D%20PR25%20%20%5BSCCM%20%E5%8F%8B%E3%81%AE%E4%BC%9A%5D%20System%20Center%20Configuration%20Manager%20%E3%81%93%E3%81%AE%E7%A7%8B%E3%81%8A%E3%81%95%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD.pdf)
 
 以上です。
+[back](./)
 

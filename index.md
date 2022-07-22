@@ -2,7 +2,7 @@
 ## 🎁[SlideShare](https://www.slideshare.net/takuyaot/presentations)
 ## 📚[Zenn](https://zenn.dev/takuyaot)
 
-<br><br>
+<br>
 
 * * *
 

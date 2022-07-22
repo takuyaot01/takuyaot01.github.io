@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+[back](./)<br>
 ## Configuration Manager 評価ガイド待避所
 ここでは諸事情により公式サイトが消滅してしまった「Configuration Manager 評価ガイド」の一時待避所です。<br>
 こちらにファイルを保管しておきますが、公式サイトが復活したらご案内します。
@@ -63,6 +63,6 @@ layout: default
 YouTube : [[SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能!](https://youtu.be/U8CUI3NJEfE)<br>
 PDF : [[TS18] PR25  [SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能.pdf](https://github.com/takuyaot01/cmdocs/blob/main/%5BTS18%5D%20PR25%20%20%5BSCCM%20%E5%8F%8B%E3%81%AE%E4%BC%9A%5D%20System%20Center%20Configuration%20Manager%20%E3%81%93%E3%81%AE%E7%A7%8B%E3%81%8A%E3%81%95%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD.pdf)
 
-以上です。
+以上です。<BR>
 [back](./)
 

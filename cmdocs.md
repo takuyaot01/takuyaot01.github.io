@@ -6,12 +6,10 @@ layout: default
 ここでは諸事情により公式サイトが消滅してしまった「Configuration Manager 評価ガイド」の一時待避所です。<br>
 こちらにファイルを保管しておきますが、公式サイトが復活したらご案内します。
 <br>
-<br>
 
 ### Configuration Manager 評価ガイドとは？
 日本マイクロソフト企画・監修のもと[国井さん](https://azuread.net/)に協力いただき作成しているガイドになります。<br>
 非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
-<br>
 
 * * *
 
@@ -32,16 +30,13 @@ layout: default
 | | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [SCCM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Update_jp_v1.0.docx) |
 
 ### 2018 年 3 月更新分
+
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
-
 | | Configuration Manager (CB) 評価ガイド - Windows 10 機能管理編 for Fall Creators Update | v1.0 | [SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx) |
 <br>
 
 ## 2017 年 12 月更新分
-
-「機能紹介とアーキテクチャ編」「基本環境構築編」は今もなお現役のバイブルかと思います。<br>
-更新しなきゃ・・・<br>
 
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
@@ -52,8 +47,6 @@ layout: default
 <br>
 
 ## 2017 年 3 月更新分
-機能紹介とアーキテクチャ編 v1.0 とかはコレクターズアイテムということで、、、<br>
-残りのものも後程アップしておきます。<br>
 
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
@@ -63,7 +56,6 @@ layout: default
 | | Configuration Manager (CB) 評価ガイド - モバイル デバイス運用管理編 | v1.0 | [SCCM_EvalGuide_Intune_Integration_Management_jp.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Management_jp.docx) |
 | | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 編 | v1.0 | [SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx) |
 | | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v1.0 | [SCCM_EvalGuide_Win10_Management_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v1.0.docx) |
-<br>
 <br>
 
 ## おまけ - イベント動画

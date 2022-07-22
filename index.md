@@ -1,5 +1,3 @@
-👋 Hi, I’m @takuyaot01 --- 🕊️[Twitter](https://twitter.com/takuyaot01) 📚[Zenn](https://zenn.dev/takuyaot) 🎁[SlideShare](https://www.slideshare.net/takuyaot/presentations) 📫[LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
-
 <br>
 
 [Configuration Manager 評価ガイド待避所](./cmdocs.html).
@@ -60,4 +58,5 @@
 
 <br><br>
 ### Contact
+🕊️[Twitter](https://twitter.com/takuyaot01) 📚[Zenn](https://zenn.dev/takuyaot) 🎁[SlideShare](https://www.slideshare.net/takuyaot/presentations) 📫[LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
 If you have any questions, please feel free to contact me. [takuyaot@live.com](mailto:takuyaot@live.com)

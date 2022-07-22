@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Configuration Manager 評価ガイド待避所
-
 ここでは諸事情により公式サイトが消滅してしまった「Configuration Manager 評価ガイド」の一時待避所です。<br>
 こちらにファイルを保管しておきますが、公式サイトが復活したらご案内します。
 <br>
@@ -12,9 +11,6 @@ layout: default
 ## Configuration Manager 評価ガイドとは？
 日本マイクロソフト企画・監修のもと[国井さん](https://azuread.net/)に協力いただき作成しているガイドになります。<br>
 非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
-Configration Manager エンジニアにとって日本の宝ともいえるこのドキュメントが DL 出来ないのは非常に痛手であり、<br>
-公式サイトの復活を待つのももったいないため、コチラのサイトの方で公開 & 残ってるものをリンクしておきます。
-<br>
 <br>
 <br>
 ## 2020 年 3 月更新分
@@ -23,7 +19,15 @@ Configration Manager エンジニアにとって日本の宝ともいえるこ�
 v1.0 は世に出回ったかもですが、一部古くなった部分を私の方で修正を加えたものになります。<br>
 ここから Microsoft Endpoinot Configuration Manager です。<br>
 
-| | Title | Ver | File |
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+| おすすめ | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
 | ★ | Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.1 | [MECM_EvalGuide_CMG_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Microsoft Defender 管理編 | v1.1 | [MECM_EvalGuide_Defender_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |

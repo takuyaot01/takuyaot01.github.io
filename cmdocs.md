@@ -13,7 +13,7 @@ layout: default
 非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
 <br>
 
-***
+* * *
 
 ### 2020 年 3 月更新分
 
@@ -24,9 +24,12 @@ layout: default
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+| head1        | head two          | three | three |
+|:-------------|:------------------|:------|:------|
 
 | | Title | Ver | File |
 |:---- |:---- |:---- |:---- |
+
 | ★ | Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.1 | [MECM_EvalGuide_CMG_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Microsoft Defender 管理編 | v1.1 | [MECM_EvalGuide_Defender_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [MECM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |

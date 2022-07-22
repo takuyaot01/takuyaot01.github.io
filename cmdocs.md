@@ -54,7 +54,6 @@ layout: default
 | | Configuration Manager (CB) 評価ガイド - モバイル デバイス運用管理編 | v1.0 | [SCCM_EvalGuide_Intune_Integration_Management_jp.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Management_jp.docx) |
 | | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 編 | v1.0 | [SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx) |
 | | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v1.0 | [SCCM_EvalGuide_Win10_Management_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v1.0.docx) |
-<br>
 
 ## おまけ - イベント動画
 2018 年の Tech Summit イベントのものですが、当時の SCCM の最新情報ということでご案内したセッションになります。

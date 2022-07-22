@@ -36,7 +36,7 @@ layout: default
 | | Configuration Manager (CB) 評価ガイド - Windows 10 機能管理編 for Fall Creators Update | v1.0 | [SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx) |
 <br>
 
-## 2017 年 12 月更新分
+### 2017 年 12 月更新分
 
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
@@ -46,7 +46,7 @@ layout: default
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v2.0 | [SCCM_EvalGuide_Win10_Management_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
 <br>
 
-## 2017 年 3 月更新分
+### 2017 年 3 月更新分
 
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |

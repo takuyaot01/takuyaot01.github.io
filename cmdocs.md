@@ -9,7 +9,7 @@ layout: default
 
 ### Configuration Manager 評価ガイドとは？
 日本マイクロソフト企画・監修のもと[国井さん](https://azuread.net/)に協力いただき作成しているガイドになります。<br>
-非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
+非常に複雑な Configuration Manager の構築において、とても有用なドキュメントですが、現在公式サイトが消失しております。<br>
 
 * * *
 <br>

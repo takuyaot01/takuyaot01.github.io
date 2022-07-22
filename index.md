@@ -1,6 +1,6 @@
 <br>
 
-[Configuration Manager 評価ガイド待避所](./cmdocs.html).
+[Configuration Manager 評価ガイド待避所](./cmdocs.html)
 
 
 # Windows クライアント系

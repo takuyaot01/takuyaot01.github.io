@@ -16,30 +16,15 @@ layout: default
 * * *
 
 ### 2020 年 3 月更新分
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-| head1        | head two          | three | three |
-|:-------------|:------------------|:------|:------|
-
 | | Title | Ver | File |
 |:---- |:---- |:---- |:---- |
-
 | ★ | Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.1 | [MECM_EvalGuide_CMG_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Microsoft Defender 管理編 | v1.1 | [MECM_EvalGuide_Defender_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [MECM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |
 
 
 ### 2019 年 3 月更新分
-共同管理編あたりも公開されていたとは思うが、blog 等からリンクされていない・・・<br>
-クラウド管理ゲートウェイ編  や 更新プログラム管理編は最新版をお使いください。コレクターズアイテムということで。<br>
-
-| test | Title | Ver | File |
+| | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
 | ★ | Configuration Manager (CB) 評価ガイド - SCCM - Intune 共同管理編 | v1.0 | [SCCM_EvalGuide_Co-Management_jp_v1.0.doc](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
 | |Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.0 | [SCCM_EvalGuide_CMG_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_CMG_jp_v1.0.docx) |

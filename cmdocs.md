@@ -30,7 +30,6 @@ layout: default
 | ★ | Configuration Manager (CB) 評価ガイド - SCCM - Intune 共同管理編 | v1.0 | [SCCM_EvalGuide_Co-Management_jp_v1.0.doc](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
 | |Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.0 | [SCCM_EvalGuide_CMG_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_CMG_jp_v1.0.docx) |
 | | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [SCCM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Update_jp_v1.0.docx) |
-<br>
 
 ### 2018 年 3 月更新分
 | | Title | Ver | File |

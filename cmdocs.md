@@ -34,7 +34,6 @@ layout: default
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
 | | Configuration Manager (CB) 評価ガイド - Windows 10 機能管理編 for Fall Creators Update | v1.0 | [SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx) |
-<br>
 
 ### 2017 年 12 月更新分
 
@@ -44,7 +43,6 @@ layout: default
 | ★ | Configuration Manager (CB) 評価ガイド - 環境構築編 | v1.1 | [SCCM_CB_EvalGuide_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 展開・アップデート編 | v2.0 | [SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx)
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v2.0 | [SCCM_EvalGuide_Win10_Management_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
-<br>
 
 ### 2017 年 3 月更新分
 

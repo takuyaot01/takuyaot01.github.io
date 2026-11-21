@@ -59,7 +59,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/ZYW4QP-copilotinwindows">Copilot in Windows</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZYW4QP-copilotinwindows">ナガシヨミ Windows - Copilot in Windows</a></h3>
       <p class="description">Windows での Copilot を紹介するスライド。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -79,7 +79,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/ZDE446-mde">Microsoft Defender for Endpoint</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZDE446-mde">ナガシヨミ Micorosft Security - Microsoft Defender for Endpoint 概要</a></h3>
       <p class="description">端末を保護するためのセキュリティ機能。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -87,7 +87,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">02</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/5DE47L-entraid">Microsoft Entra ID</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/5DE47L-entraid">ナガシヨミ Microsoft 365 - Microsoft Entra ID 概要</a></h3>
       <p class="description">ID・認証と、クラウドサービスへのアクセス管理。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -95,7 +95,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">03</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/ZM1E4G-eiaepa">Entra Internet Access / Private Access</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZM1E4G-eiaepa">ナガシヨミ Microsoft 365 - Microsoft Entra Internet Access &amp; Private Access 概要</a></h3>
       <p class="description">インターネットとプライベートリソースへのセキュアなアクセス。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -103,7 +103,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">04</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/K4VEDQ-windows-sign-ins">Windows のサインイン強化</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K4VEDQ-windows-sign-ins">ナガシヨミ Windows - Windows のサインインの強化</a></h3>
       <p class="description">Windows の認証とサインインを見直す。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -111,7 +111,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">05</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/Z6Y2W9-windowsmam">Windows MAM</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/Z6Y2W9-windowsmam">ナガシヨミ Windows - Windows MAM 概要</a></h3>
       <p class="description">Windows のアプリケーションとデータの保護。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -123,7 +123,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/ZQRJ6R-w365">Windows 365</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZQRJ6R-w365">ナガシヨミ Windows - Windows 365 概要</a></h3>
       <p class="description">クラウド PC の仕組みと使い方。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -131,7 +131,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">02</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/5J4V91-avd">Azure Virtual Desktop</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/5J4V91-avd">ナガシヨミ Windows - Azure Virtual Desktop 概要</a></h3>
       <p class="description">Azure 上で利用するデスクトップ仮想化。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -161,16 +161,16 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/K988RX-intune">Microsoft Intune</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K988RX-intune">ナガシヨミ Microsoft 365 - Microsoft Intune 概要</a></h3>
       <p class="description">クラウドからの端末管理。</p>
-      <p class="related"><a href="https://www.docswell.com/s/takuyaot/K6YPGW-intunesuite">Intune Suite</a></p>
+      <p class="related"><a href="https://www.docswell.com/s/takuyaot/K6YPGW-intunesuite">ナガシヨミ Microsoft 365 - Microsoft Intune Suite 概要</a></p>
     </div>
     <span class="label">ドクセル / Slides</span>
   </article>
   <article class="item">
     <span class="item-number" aria-hidden="true">02</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr">Configuration Manager</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr">ナガシヨミ Microsoft 365 - Microsoft Configuration Manager 概要</a></h3>
       <p class="description">クライアント管理インフラと関連機能。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -178,16 +178,16 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">03</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/KQ8RX3-dts2022-WindowsUpdate">Windows 更新管理</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/KQ8RX3-dts2022-WindowsUpdate">Digital Trust Summit 2022 - イマドキの Windows の更新管理 ～ アップデートの仕組みから Windows Autopatch まで ～</a></h3>
       <p class="description">Windows 更新プログラムの管理と展開。</p>
-      <p class="related"><a href="https://www.docswell.com/s/takuyaot/Z7RR26-wsus">WSUS</a></p>
+      <p class="related"><a href="https://www.docswell.com/s/takuyaot/Z7RR26-wsus">ナガシヨミ Windows - Windows Server Update Service (WSUS) 概要</a></p>
     </div>
     <span class="label">ドクセル / Slides</span>
   </article>
   <article class="item">
     <span class="item-number" aria-hidden="true">04</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/K3GMYD-PR24-windows-network">Windows のネットワーク最適化</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K3GMYD-PR24-windows-network">Windows × ネットワーク! 更新プログラムの展開に使える ネットワークの最適化機能をマスターしよう</a></h3>
       <p class="description">更新プログラムなどの配信を効率化する機能。</p>
     </div>
     <span class="label">ドクセル / Slides</span>
@@ -195,7 +195,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">05</span>
     <div>
-      <h3><a href="https://www.docswell.com/s/takuyaot/59VRG1-MMC-for-Ent">Microsoft Connected Cache</a></h3>
+      <h3><a href="https://www.docswell.com/s/takuyaot/59VRG1-MMC-for-Ent">ナガシヨミ Windows - Microsoft Connected Cache 概要 for Enterprise and Education 版</a></h3>
       <p class="description">組織内でのコンテンツ配信とキャッシュ。</p>
     </div>
     <span class="label">ドクセル / Slides</span>

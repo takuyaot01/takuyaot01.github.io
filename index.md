@@ -1,54 +1,205 @@
-## 🖥️[Configuration Manager 評価ガイド待避所](./cmdocs.html)
-## 🎁[SlideShare](https://www.slideshare.net/takuyaot/presentations)
-## 📚[Zenn](https://zenn.dev/takuyaot)
+---
+layout: home
+title: 資料とリンク
+description: AI・Security・Cloud・OS に関するスライド、記事、構築ガイドへのリンク集。
+---
 
-<br>
+<div class="hero">
+  <p class="eyebrow">AI / SECURITY / CLOUD / OS</p>
+  <h1>資料とリンク</h1>
+  <p>Microsoft 365・Azure・Windows のスライド、記事、構築ガイド。</p>
+</div>
 
-* * *
+<nav class="category-nav" aria-label="資料のカテゴリ">
+  <a href="#guides">構築ガイド</a>
+  <a href="#ai">AI</a>
+  <a href="#security">Security</a>
+  <a href="#cloud">Cloud</a>
+  <a href="#os">OS &amp; Management</a>
+  <a href="#archive">過去の資料</a>
+</nav>
 
-## Windows クライアント
-- [IT エンジニアのための 流し読み Windows 10 - この半年くらいの Windows 10 事情 - 2019 春](https://www.slideshare.net/takuyaot/it-windows-10-windows-10-2019)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Windows Hello for Business](https://www.slideshare.net/takuyaot/it-windows-10-windows-hello-for-business-235811381)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Windows 10 Enterprise LTSC 注意事項まとめ](https://www.slideshare.net/takuyaot/it-windows-10-windows-10-enterprise-ltsc)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Windows サンドボックス](https://www.slideshare.net/takuyaot/it-windows-10-windows-149793573)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Windows のネットワーク最適化機能](https://www.slideshare.net/takuyaot/it-windows-10-windows-149765919)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Windows 10 サブスクリプションのライセンス認証](https://www.slideshare.net/takuyaot/it-windows-10-windows-10)<br>
-- [IT エンジニアのための 流し読み Windows - Windows 共有 PC モード](https://www.slideshare.net/takuyaot/it-windows-windows-pc)<br>
-- [IT エンジニアのための 流し読み Windows - Windows 11 へのアップグレード](https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928)<br>
-- [IT エンジニアのための 流し読み Windows - Windows 11 のクリーン インストール](https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928)<br>
-- [IT エンジニアのための 流し読み Windows - Windows 11 SE おさえておきたい 8 のポイント](https://www.slideshare.net/takuyaot/it-windows-windows-11-se-8)<br>
-- [IT エンジニアのための 流し読み Windows 10 - 新しい Microsoft Edge - from Build 2019](https://www.slideshare.net/takuyaot/it-windows-10-microsoft-edge-from-build-2019)<br>
-- [IT エンジニアのための 流し読み Windows 10 - IE11 のサポート終了と Microsoft Edge について](https://www.slideshare.net/takuyaot/it-windows-10-ie11-microsoft-edge)<br>
-- [IT エンジニアのための 流し読み Windows 10 - 超概要！Windows Defender シリーズ](https://www.slideshare.net/takuyaot/it-windows-10-windows-defender)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Microsoft Defender ウイルス対策](https://www.slideshare.net/takuyaot/it-windows-10-microsoft-defender-236546294)<br>
-- [IT エンジニアのための 流し読み Windows - Microsoft Defender Exploit Guard ](https://www.slideshare.net/takuyaot/it-windows-microsoft-defender-exploit-guard)<br>
-- [新登場！ Windows Defender Application Guard 解説 ～ Microsoft Edge がセキュア ブラウザーに！？～](https://www.slideshare.net/takuyaot/windows-defender-application-guard-microsoft-edge)<br>
-- [IT エンジニアのための 流し読み Microsoft 365 - 入門！Microsoft Defender ATP (Defender for Endpoint)](https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender)<br>
-- [IT エンジニアのための 流し読み Microsoft 365 - 入門！Microsoft Defender for Endpoint クロスプラットフォーム編](https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender-for-endpoint-242769214)<br>
-<br><br>
+<section id="guides" class="collection" aria-labelledby="guides-heading">
+  <div class="section-heading"><h2 id="guides-heading">構築ガイド</h2><p>手順を見ながら試す</p></div>
+  <div class="cards">
+    <article class="card guide-card">
+      <span class="label">Word / GitHub</span>
+      <h3><a href="./cmdocs.html">Configuration Manager 評価ガイド</a></h3>
+      <p>構築・共同管理・クラウド管理ゲートウェイなどの評価ガイドを保管しています。</p>
+      <p class="related"><a href="https://github.com/takuyaot01/cmdocs">GitHub でファイルを見る</a></p>
+    </article>
+    <article class="card guide-card">
+      <span class="label">Zenn / Books</span>
+      <h3><a href="https://zenn.dev/takuyaot/books/94c40d93cfb326">タメシカタ Microsoft Intune</a></h3>
+      <p>Windows 端末の管理を試すための構築ガイド。</p>
+    </article>
+    <article class="card guide-card">
+      <span class="label">Zenn / Books</span>
+      <h3><a href="https://zenn.dev/takuyaot/books/45d4f4494a63ce">タメシカタ Microsoft Entra ID</a></h3>
+      <p>Microsoft Entra ID の基本と、オンプレミスからの同期。</p>
+      <p class="related"><a href="https://zenn.dev/takuyaot/books/9fe2a66d806609">Connect 同期編</a></p>
+    </article>
+  </div>
+</section>
 
-## クライアント管理インフラ
-- [IT エンジニアのための 流し読み Windows 10 - 入門！Windows Server Update Services (WSUS)](https://www.slideshare.net/takuyaot/it-windows-10-windows-server-update-services-wsus)<br>
-- [IT エンジニアのための 流し読み Windows 10 - 入門！System Center Configration Manager](https://www.slideshare.net/takuyaot/it-windows-10-system-center-configration-manager)<br>
-- [IT エンジニアのための 流し読み Windows 10 - Microsoft の更新プログラム管理インフラ比較 ～ WU / WSUS / SCCM の違い ～](https://www.slideshare.net/takuyaot/it-windows-10-microsoft-wu-wsus-sccm)<br>
-- [[SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能!](https://www.slideshare.net/takuyaot/sccm-system-center-configuration-manager-140148680)<br>
-- [Windows × ネットワーク! 更新プログラムの展開に使える ネットワークの最適化機能をマスターしよう](https://www.slideshare.net/takuyaot/windows-140148546)<br>
-<br><br>
+<section id="ai" class="collection" aria-labelledby="ai-heading">
+  <div class="section-heading"><h2 id="ai-heading">AI</h2><p>Copilot と関連ツール</p></div>
+  <div class="cards">
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZYW4QP-copilotinwindows">Copilot in Windows</a></h3>
+      <p>Windows での Copilot を紹介するスライド。</p>
+    </article>
+    <article class="card">
+      <span class="label">GitHub / Skills</span>
+      <h3><a href="https://github.com/takuyaot01/ms-japanese-style-docs-plus">日本語 Office 資料づくりのスキル</a></h3>
+      <p>日本語スタイルガイドに独自ルールを加えた Copilot Cowork 向けスキル。</p>
+    </article>
+  </div>
+</section>
 
-## Windows 365 / AVD (WVD)
-- [IT エンジニアのための 流し読み Windows 10 - Windows Virtual Desktop](https://www.slideshare.net/takuyaot/it-windows-10-windows-virtual-desktop-146709743)<br>
-- [IT エンジニアのための 流し読み Windows - Windows 365 ってどんな感じ？ - せっかちなあなたへ編 -](https://www.slideshare.net/takuyaot/it-windows-windows-365-249784610)<br>
-- [Microsoft デスクトップ仮想化ソリューション比較](https://www.slideshare.net/takuyaot/microsoft-249969155)<br>
-- [いまはじ！ Windows 365 - Business 編](https://zenn.dev/books/507584243171c2/edit)<br>
-- [いまはじ！ Windows 365 - Enterprise 編](https://zenn.dev/books/60c3ced87ba86f/edit)<br>
-<br><br>
+<section id="security" class="collection" aria-labelledby="security-heading">
+  <div class="section-heading"><h2 id="security-heading">Security</h2><p>Endpoint / Identity / Access</p></div>
+  <div class="cards">
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZDE446-mde">Microsoft Defender for Endpoint</a></h3>
+      <p>端末を保護するためのセキュリティ機能。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/5DE47L-entraid">Microsoft Entra ID</a></h3>
+      <p>ID・認証と、クラウドサービスへのアクセス管理。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZM1E4G-eiaepa">Entra Internet Access / Private Access</a></h3>
+      <p>インターネットとプライベートリソースへのセキュアなアクセス。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K4VEDQ-windows-sign-ins">Windows のサインイン強化</a></h3>
+      <p>Windows の認証とサインインを見直す。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/Z6Y2W9-windowsmam">Windows MAM</a></h3>
+      <p>Windows のアプリケーションとデータの保護。</p>
+    </article>
+  </div>
+</section>
 
-## ハードコア デバッギング
-- [ハードコア デバッギング　～ Windows のアプリケーション運用トラブルシューティング実践](https://www.slideshare.net/takuyaot/windows-140148072)<br>
-- [ハードコア デバッギング : サポート直伝！運用中 Windows アプリケーション バグバスター！！](https://www.slideshare.net/takuyaot/windows-140148401)<br>
-- [ハードコア デバッギング : サポート直伝！ Windows カーネルモード デバッグ活用編！！](https://www.slideshare.net/takuyaot/windows-148410112)<br>
-<br><br>
+<section id="cloud" class="collection" aria-labelledby="cloud-heading">
+  <div class="section-heading"><h2 id="cloud-heading">Cloud</h2><p>Windows 365 / Azure Virtual Desktop</p></div>
+  <div class="cards">
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZQRJ6R-w365">Windows 365</a></h3>
+      <p>クラウド PC の仕組みと使い方。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/5J4V91-avd">Azure Virtual Desktop</a></h3>
+      <p>Azure 上で利用するデスクトップ仮想化。</p>
+    </article>
+    <article class="card">
+      <span class="label">Zenn / Books</span>
+      <h3><a href="https://zenn.dev/takuyaot/books/7b576df97e9f22">Windows 365 Enterprise 構築ガイド</a></h3>
+      <p>フルクラウド環境での構築手順。</p>
+      <p class="related"><a href="https://zenn.dev/takuyaot/books/60c3ced87ba86f">ハイブリッド編</a> / <a href="https://zenn.dev/takuyaot/books/507584243171c2">Business 編</a></p>
+    </article>
+    <article class="card">
+      <span class="label">Zenn / Books</span>
+      <h3><a href="https://zenn.dev/takuyaot/books/96ae44ae07c1ee">Azure Virtual Desktop 構築ガイド</a></h3>
+      <p>シンプルなシングル構成から始める。</p>
+      <p class="related"><a href="https://zenn.dev/takuyaot/books/2eba3dfac1a011">カンタン マルチ編</a></p>
+    </article>
+  </div>
+</section>
 
-### Contact
-If you have any questions, please feel free to contact me. 
-🕊️[Twitter](https://twitter.com/takuyaot01)   📫[LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
+<section id="os" class="collection" aria-labelledby="os-heading">
+  <div class="section-heading"><h2 id="os-heading">OS &amp; Management</h2><p>Windows と端末管理</p></div>
+  <div class="cards">
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K988RX-intune">Microsoft Intune</a></h3>
+      <p>クラウドからの端末管理。</p>
+      <p class="related"><a href="https://www.docswell.com/s/takuyaot/K6YPGW-intunesuite">Intune Suite</a></p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr">Configuration Manager</a></h3>
+      <p>クライアント管理インフラと関連機能。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/KQ8RX3-dts2022-WindowsUpdate">Windows 更新管理</a></h3>
+      <p>Windows 更新プログラムの管理と展開。</p>
+      <p class="related"><a href="https://www.docswell.com/s/takuyaot/Z7RR26-wsus">WSUS</a></p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/K3GMYD-PR24-windows-network">Windows のネットワーク最適化</a></h3>
+      <p>更新プログラムなどの配信を効率化する機能。</p>
+    </article>
+    <article class="card">
+      <span class="label">ドクセル / Slides</span>
+      <h3><a href="https://www.docswell.com/s/takuyaot/59VRG1-MMC-for-Ent">Microsoft Connected Cache</a></h3>
+      <p>組織内でのコンテンツ配信とキャッシュ。</p>
+    </article>
+  </div>
+</section>
+
+<section id="archive" class="collection archive" aria-labelledby="archive-heading">
+  <h2 id="archive-heading">過去の資料</h2>
+  <p class="archive-intro">これまでの SlideShare 資料。製品名・仕様・サポート状況は公開当時のものです。</p>
+  <details>
+    <summary>Windows クライアント</summary>
+    <ul>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-10-2019">Windows 10 事情 — 2019 春</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-hello-for-business-235811381">Windows Hello for Business</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-10-enterprise-ltsc">Windows 10 Enterprise LTSC 注意事項まとめ</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-149793573">Windows サンドボックス</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-149765919">Windows のネットワーク最適化機能</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-10">Windows 10 サブスクリプションのライセンス認証</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-pc">Windows 共有 PC モード</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928">Windows 11 へのアップグレード</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928">Windows 11 のクリーン インストール</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-se-8">Windows 11 SE おさえておきたい 8 のポイント</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-microsoft-edge-from-build-2019">新しい Microsoft Edge — Build 2019</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-ie11-microsoft-edge">IE11 のサポート終了と Microsoft Edge</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-defender">Windows Defender シリーズ</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-microsoft-defender-236546294">Microsoft Defender ウイルス対策</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-microsoft-defender-exploit-guard">Microsoft Defender Exploit Guard</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/windows-defender-application-guard-microsoft-edge">Windows Defender Application Guard</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender">Microsoft Defender ATP / Defender for Endpoint</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-microsoft-365-microsoft-defender-for-endpoint-242769214">Microsoft Defender for Endpoint クロスプラットフォーム編</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary>クライアント管理インフラ</summary>
+    <ul>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-server-update-services-wsus">入門！Windows Server Update Services (WSUS)</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-system-center-configration-manager">入門！System Center Configuration Manager</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-microsoft-wu-wsus-sccm">更新プログラム管理インフラ比較 — WU / WSUS / SCCM</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/sccm-system-center-configuration-manager-140148680">[SCCM 友の会] この秋おさえておきたい最新機能</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/windows-140148546">Windows × ネットワーク — 更新プログラム展開の最適化</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary>Windows 365 / AVD (WVD)</summary>
+    <ul>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-virtual-desktop-146709743">Windows Virtual Desktop</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-365-249784610">Windows 365 ってどんな感じ？ — せっかちなあなたへ編</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/microsoft-249969155">Microsoft デスクトップ仮想化ソリューション比較</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary>ハードコア デバッギング</summary>
+    <ul>
+      <li><a href="https://www.slideshare.net/takuyaot/windows-140148072">Windows のアプリケーション運用トラブルシューティング実践</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/windows-140148401">運用中 Windows アプリケーション バグバスター</a></li>
+      <li><a href="https://www.slideshare.net/takuyaot/windows-148410112">Windows カーネルモード デバッグ活用編</a></li>
+    </ul>
+  </details>
+</section>

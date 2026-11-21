@@ -29,14 +29,21 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
+      <h3><a href="https://github.com/takuyaot01/msdocs">Microsoft 構築・移行ガイド</a></h3>
+      <p class="description">Microsoft 365 E3・Business Premium・E5 の構築、Defender for Cloud の設定、Microsoft Sentinel の移行を扱う日本語 PDF ガイド集。</p>
+    </div>
+    <span class="label">PDF / GitHub</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://github.com/takuyaot01/cmdocs">Configuration Manager 評価ガイド</a></h3>
       <p class="description">構築・共同管理・クラウド管理ゲートウェイなどの評価ガイドを保管しています。</p>
-      <p class="related"><a href="https://github.com/takuyaot01/cmdocs">GitHub でファイルを見る</a></p>
     </div>
     <span class="label">Word / GitHub</span>
   </article>
   <article class="item">
-    <span class="item-number" aria-hidden="true">02</span>
+    <span class="item-number" aria-hidden="true">03</span>
     <div>
       <h3><a href="https://zenn.dev/takuyaot/books/94c40d93cfb326">タメシカタ Microsoft Intune</a></h3>
       <p class="description">Windows 端末の管理を試すための構築ガイド。</p>
@@ -44,7 +51,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
     <span class="label">Zenn / Books</span>
   </article>
   <article class="item">
-    <span class="item-number" aria-hidden="true">03</span>
+    <span class="item-number" aria-hidden="true">04</span>
     <div>
       <h3><a href="https://zenn.dev/takuyaot/books/45d4f4494a63ce">タメシカタ Microsoft Entra ID</a></h3>
       <p class="description">Microsoft Entra ID の基本と、オンプレミスからの同期。</p>
@@ -68,7 +75,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
     <span class="item-number" aria-hidden="true">02</span>
     <div>
       <h3><a href="https://github.com/takuyaot01/ms-japanese-style-docs-plus">MS Japanese Style Docs+</a></h3>
-      <p class="description">日本語スタイルガイドに独自ルールを加えた Copilot Cowork 向けスキル。</p>
+      <p class="description">日本語の Office 資料の表記・文体・フォントを整える、個人制作の Copilot Cowork スキル。</p>
     </div>
     <span class="label">GitHub / Skills</span>
   </article>
@@ -204,7 +211,8 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
 
 <section id="archive" class="collection archive" aria-labelledby="archive-heading">
   <h2 id="archive-heading">過去の資料</h2>
-  <p class="archive-intro">これまでの SlideShare 資料。製品名・仕様・サポート状況は公開当時のものです。</p>
+  <p class="archive-intro">過去のスライドと技術資料。製品名・仕様・サポート状況は公開当時のものです。</p>
+  <p class="archive-intro"><a href="https://github.com/takuyaot01/gigadocs">GIGA スクール・教育機関向け Microsoft 資料</a> — Microsoft 365・Windows・Azure AD・Intune の PDF スライド（2020 年版）。</p>
   <details>
     <summary>Windows クライアント</summary>
     <ul>
@@ -215,7 +223,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-149765919">Windows のネットワーク最適化機能</a></li>
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-windows-10">Windows 10 サブスクリプションのライセンス認証</a></li>
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-pc">Windows 共有 PC モード</a></li>
-      <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928">Windows 11 へのアップグレード</a></li>
+      <li><a href="https://www.slideshare.net/slideshow/it-windows-windows-11/250445516">Windows 11 へのアップグレード</a></li>
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-250469928">Windows 11 のクリーン インストール</a></li>
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-windows-11-se-8">Windows 11 SE おさえておきたい 8 のポイント</a></li>
       <li><a href="https://www.slideshare.net/takuyaot/it-windows-10-microsoft-edge-from-build-2019">新しい Microsoft Edge — Build 2019</a></li>

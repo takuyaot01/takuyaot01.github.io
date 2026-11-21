@@ -10,22 +10,24 @@
 </head>
 <body>
   <a class="skip-link" href="#main">本文へスキップ</a>
-  <header class="site-header shell">
-    <a class="site-name" href="{{ '/' | relative_url }}">@takuyaot01<span> / resources</span></a>
-    <a class="github-link" href="https://github.com/takuyaot01">GitHub <span aria-hidden="true">&#8599;</span></a>
-  </header>
-  <main id="main" class="shell">
+  <div class="wrap">
+    <header class="topbar">
+      <a class="brand" href="{{ '/' | relative_url }}">@takuyaot01<span> / resources</span></a>
+      <nav class="toplinks" aria-label="上部リンク">
+        <a href="https://github.com/takuyaot01">GitHub <span aria-hidden="true">&#8599;</span></a>
+      </nav>
+    </header>
     {{ content }}
-  </main>
-  <footer class="site-footer shell">
-    <p>takuyaot01 <span aria-hidden="true">&middot;</span> Microsoft 365 / Azure / Windows</p>
-    <nav aria-label="プロフィール">
-      <a href="https://x.com/takuyaot01">X</a>
-      <a href="https://www.linkedin.com/in/takuya-ohta/">LinkedIn</a>
-      <a href="https://zenn.dev/takuyaot">Zenn</a>
-      <a href="https://www.docswell.com/user/takuyaot">ドクセル</a>
-      <a href="https://www.slideshare.net/takuyaot/presentations">SlideShare</a>
-    </nav>
-  </footer>
+    <footer class="footer">
+      <p>takuyaot01 <span aria-hidden="true">&middot;</span> Microsoft 365 / Azure / Windows</p>
+      <nav aria-label="プロフィール">
+        <a href="https://x.com/takuyaot01">X</a>
+        <a href="https://www.linkedin.com/in/takuya-ohta/">LinkedIn</a>
+        <a href="https://zenn.dev/takuyaot">Zenn</a>
+        <a href="https://www.docswell.com/user/takuyaot">ドクセル</a>
+        <a href="https://www.slideshare.net/takuyaot/presentations">SlideShare</a>
+      </nav>
+    </footer>
+  </div>
 </body>
 </html>

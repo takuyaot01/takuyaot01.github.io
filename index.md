@@ -4,150 +4,202 @@ title: 資料とリンク
 description: AI・Security・Cloud・OS に関するスライド、記事、構築ガイドへのリンク集。
 ---
 
-<div class="hero">
-  <p class="eyebrow">AI / SECURITY / CLOUD / OS</p>
-  <h1>資料とリンク</h1>
-  <p>Microsoft 365・Azure・Windows のスライド、記事、構築ガイド。</p>
+<div class="intro">
+  <p class="kicker">CONSOLE INDEX &nbsp; <span class="prompt" aria-hidden="true">$</span> ls ./resources</p>
+  <h1><span class="prompt" aria-hidden="true">&gt; </span>資料とリンク</h1>
+  <p>AI・Security・Cloud・OS / Microsoft 365・Azure・Windows</p>
 </div>
 
-<nav class="category-nav" aria-label="資料のカテゴリ">
-  <a href="#guides">構築ガイド</a>
-  <a href="#ai">AI</a>
-  <a href="#security">Security</a>
-  <a href="#cloud">Cloud</a>
-  <a href="#os">OS &amp; Management</a>
-  <a href="#archive">過去の資料</a>
-</nav>
+<div class="catalog-layout">
+<aside class="side">
+  <p class="side-title">BROWSE BY TOPIC</p>
+  <nav aria-label="資料のカテゴリ">
+    <a href="#guides"><span>構築ガイド</span><span class="number" aria-hidden="true">01</span></a>
+    <a href="#ai"><span>AI</span><span class="number" aria-hidden="true">02</span></a>
+    <a href="#security"><span>Security</span><span class="number" aria-hidden="true">03</span></a>
+    <a href="#cloud"><span>Cloud</span><span class="number" aria-hidden="true">04</span></a>
+    <a href="#os"><span>OS &amp; Management</span><span class="number" aria-hidden="true">05</span></a>
+    <a href="#archive"><span>過去の資料</span><span class="number" aria-hidden="true">06</span></a>
+  </nav>
+</aside>
 
+<main id="main">
 <section id="guides" class="collection" aria-labelledby="guides-heading">
-  <div class="section-heading"><h2 id="guides-heading">構築ガイド</h2><p>手順を見ながら試す</p></div>
-  <div class="cards">
-    <article class="card guide-card">
-      <span class="label">Word / GitHub</span>
+  <div class="section-head"><h2 id="guides-heading">構築ガイド</h2><p>手順を見ながら試す</p></div>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">01</span>
+    <div>
       <h3><a href="./cmdocs.html">Configuration Manager 評価ガイド</a></h3>
-      <p>構築・共同管理・クラウド管理ゲートウェイなどの評価ガイドを保管しています。</p>
+      <p class="description">構築・共同管理・クラウド管理ゲートウェイなどの評価ガイドを保管しています。</p>
       <p class="related"><a href="https://github.com/takuyaot01/cmdocs">GitHub でファイルを見る</a></p>
-    </article>
-    <article class="card guide-card">
-      <span class="label">Zenn / Books</span>
+    </div>
+    <span class="label">Word / GitHub</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://zenn.dev/takuyaot/books/94c40d93cfb326">タメシカタ Microsoft Intune</a></h3>
-      <p>Windows 端末の管理を試すための構築ガイド。</p>
-    </article>
-    <article class="card guide-card">
-      <span class="label">Zenn / Books</span>
+      <p class="description">Windows 端末の管理を試すための構築ガイド。</p>
+    </div>
+    <span class="label">Zenn / Books</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">03</span>
+    <div>
       <h3><a href="https://zenn.dev/takuyaot/books/45d4f4494a63ce">タメシカタ Microsoft Entra ID</a></h3>
-      <p>Microsoft Entra ID の基本と、オンプレミスからの同期。</p>
+      <p class="description">Microsoft Entra ID の基本と、オンプレミスからの同期。</p>
       <p class="related"><a href="https://zenn.dev/takuyaot/books/9fe2a66d806609">Connect 同期編</a></p>
-    </article>
-  </div>
+    </div>
+    <span class="label">Zenn / Books</span>
+  </article>
 </section>
 
 <section id="ai" class="collection" aria-labelledby="ai-heading">
-  <div class="section-heading"><h2 id="ai-heading">AI</h2><p>Copilot と関連ツール</p></div>
-  <div class="cards">
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+  <div class="section-head"><h2 id="ai-heading">AI</h2><p>Copilot と関連ツール</p></div>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">01</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/ZYW4QP-copilotinwindows">Copilot in Windows</a></h3>
-      <p>Windows での Copilot を紹介するスライド。</p>
-    </article>
-    <article class="card">
-      <span class="label">GitHub / Skills</span>
+      <p class="description">Windows での Copilot を紹介するスライド。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://github.com/takuyaot01/ms-japanese-style-docs-plus">日本語 Office 資料づくりのスキル</a></h3>
-      <p>日本語スタイルガイドに独自ルールを加えた Copilot Cowork 向けスキル。</p>
-    </article>
-  </div>
+      <p class="description">日本語スタイルガイドに独自ルールを加えた Copilot Cowork 向けスキル。</p>
+    </div>
+    <span class="label">GitHub / Skills</span>
+  </article>
 </section>
 
 <section id="security" class="collection" aria-labelledby="security-heading">
-  <div class="section-heading"><h2 id="security-heading">Security</h2><p>Endpoint / Identity / Access</p></div>
-  <div class="cards">
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+  <div class="section-head"><h2 id="security-heading">Security</h2><p>Endpoint / Identity / Access</p></div>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">01</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/ZDE446-mde">Microsoft Defender for Endpoint</a></h3>
-      <p>端末を保護するためのセキュリティ機能。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">端末を保護するためのセキュリティ機能。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/5DE47L-entraid">Microsoft Entra ID</a></h3>
-      <p>ID・認証と、クラウドサービスへのアクセス管理。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">ID・認証と、クラウドサービスへのアクセス管理。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">03</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/ZM1E4G-eiaepa">Entra Internet Access / Private Access</a></h3>
-      <p>インターネットとプライベートリソースへのセキュアなアクセス。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">インターネットとプライベートリソースへのセキュアなアクセス。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">04</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/K4VEDQ-windows-sign-ins">Windows のサインイン強化</a></h3>
-      <p>Windows の認証とサインインを見直す。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">Windows の認証とサインインを見直す。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">05</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/Z6Y2W9-windowsmam">Windows MAM</a></h3>
-      <p>Windows のアプリケーションとデータの保護。</p>
-    </article>
-  </div>
+      <p class="description">Windows のアプリケーションとデータの保護。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
 </section>
 
 <section id="cloud" class="collection" aria-labelledby="cloud-heading">
-  <div class="section-heading"><h2 id="cloud-heading">Cloud</h2><p>Windows 365 / Azure Virtual Desktop</p></div>
-  <div class="cards">
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+  <div class="section-head"><h2 id="cloud-heading">Cloud</h2><p>Windows 365 / Azure Virtual Desktop</p></div>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">01</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/ZQRJ6R-w365">Windows 365</a></h3>
-      <p>クラウド PC の仕組みと使い方。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">クラウド PC の仕組みと使い方。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/5J4V91-avd">Azure Virtual Desktop</a></h3>
-      <p>Azure 上で利用するデスクトップ仮想化。</p>
-    </article>
-    <article class="card">
-      <span class="label">Zenn / Books</span>
+      <p class="description">Azure 上で利用するデスクトップ仮想化。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">03</span>
+    <div>
       <h3><a href="https://zenn.dev/takuyaot/books/7b576df97e9f22">Windows 365 Enterprise 構築ガイド</a></h3>
-      <p>フルクラウド環境での構築手順。</p>
+      <p class="description">フルクラウド環境での構築手順。</p>
       <p class="related"><a href="https://zenn.dev/takuyaot/books/60c3ced87ba86f">ハイブリッド編</a> / <a href="https://zenn.dev/takuyaot/books/507584243171c2">Business 編</a></p>
-    </article>
-    <article class="card">
-      <span class="label">Zenn / Books</span>
+    </div>
+    <span class="label">Zenn / Books</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">04</span>
+    <div>
       <h3><a href="https://zenn.dev/takuyaot/books/96ae44ae07c1ee">Azure Virtual Desktop 構築ガイド</a></h3>
-      <p>シンプルなシングル構成から始める。</p>
+      <p class="description">シンプルなシングル構成から始める。</p>
       <p class="related"><a href="https://zenn.dev/takuyaot/books/2eba3dfac1a011">カンタン マルチ編</a></p>
-    </article>
-  </div>
+    </div>
+    <span class="label">Zenn / Books</span>
+  </article>
 </section>
 
 <section id="os" class="collection" aria-labelledby="os-heading">
-  <div class="section-heading"><h2 id="os-heading">OS &amp; Management</h2><p>Windows と端末管理</p></div>
-  <div class="cards">
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+  <div class="section-head"><h2 id="os-heading">OS &amp; Management</h2><p>Windows と端末管理</p></div>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">01</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/K988RX-intune">Microsoft Intune</a></h3>
-      <p>クラウドからの端末管理。</p>
+      <p class="description">クラウドからの端末管理。</p>
       <p class="related"><a href="https://www.docswell.com/s/takuyaot/K6YPGW-intunesuite">Intune Suite</a></p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">02</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr">Configuration Manager</a></h3>
-      <p>クライアント管理インフラと関連機能。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">クライアント管理インフラと関連機能。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">03</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/KQ8RX3-dts2022-WindowsUpdate">Windows 更新管理</a></h3>
-      <p>Windows 更新プログラムの管理と展開。</p>
+      <p class="description">Windows 更新プログラムの管理と展開。</p>
       <p class="related"><a href="https://www.docswell.com/s/takuyaot/Z7RR26-wsus">WSUS</a></p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">04</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/K3GMYD-PR24-windows-network">Windows のネットワーク最適化</a></h3>
-      <p>更新プログラムなどの配信を効率化する機能。</p>
-    </article>
-    <article class="card">
-      <span class="label">ドクセル / Slides</span>
+      <p class="description">更新プログラムなどの配信を効率化する機能。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
+  <article class="item">
+    <span class="item-number" aria-hidden="true">05</span>
+    <div>
       <h3><a href="https://www.docswell.com/s/takuyaot/59VRG1-MMC-for-Ent">Microsoft Connected Cache</a></h3>
-      <p>組織内でのコンテンツ配信とキャッシュ。</p>
-    </article>
-  </div>
+      <p class="description">組織内でのコンテンツ配信とキャッシュ。</p>
+    </div>
+    <span class="label">ドクセル / Slides</span>
+  </article>
 </section>
 
 <section id="archive" class="collection archive" aria-labelledby="archive-heading">
@@ -203,3 +255,5 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
     </ul>
   </details>
 </section>
+</main>
+</div>

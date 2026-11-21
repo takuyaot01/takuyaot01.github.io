@@ -29,7 +29,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">01</span>
     <div>
-      <h3><a href="./cmdocs.html">Configuration Manager 評価ガイド</a></h3>
+      <h3><a href="https://github.com/takuyaot01/cmdocs">Configuration Manager 評価ガイド</a></h3>
       <p class="description">構築・共同管理・クラウド管理ゲートウェイなどの評価ガイドを保管しています。</p>
       <p class="related"><a href="https://github.com/takuyaot01/cmdocs">GitHub でファイルを見る</a></p>
     </div>

@@ -67,7 +67,7 @@ description: AI・Security・Cloud・OS に関するスライド、記事、構�
   <article class="item">
     <span class="item-number" aria-hidden="true">02</span>
     <div>
-      <h3><a href="https://github.com/takuyaot01/ms-japanese-style-docs-plus">日本語 Office 資料づくりのスキル</a></h3>
+      <h3><a href="https://github.com/takuyaot01/ms-japanese-style-docs-plus">MS Japanese Style Docs+</a></h3>
       <p class="description">日本語スタイルガイドに独自ルールを加えた Copilot Cowork 向けスキル。</p>
     </div>
     <span class="label">GitHub / Skills</span>
